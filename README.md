@@ -125,8 +125,8 @@ Visual Hierarchy
 User-Centered Design
 Responsive Layout
 Clear Navigation
-Conclusion
 
+# Conclusion
 The high-fidelity design successfully transforms the initial wireframe into a modern and visually engaging mobile application. The final design improves usability, enhances the shopping experience, and demonstrates practical implementation of UI/UX design principles
 Outcome
    
